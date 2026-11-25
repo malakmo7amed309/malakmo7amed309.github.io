@@ -3,7 +3,7 @@
 My personal portfolio site. Single-page, responsive, built with plain HTML, CSS and a
 little JavaScript, no build step and no dependencies to install.
 
-**Live site:** https://malakmo7amed309.github.io/portfolio/
+**Live site:** https://malakmo7amed309.github.io/
 
 ## Screenshots
 
