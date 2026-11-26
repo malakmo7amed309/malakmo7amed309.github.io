@@ -418,3 +418,26 @@ a {
   margin: 0;
   flex: 1;
 }
+
+.group-title {
+  margin: 3rem 0 1.25rem;
+  padding-bottom: 0.5rem;
+  font-size: 1.15rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted, #6b7280);
+  border-bottom: 1px solid rgba(127, 127, 127, 0.25);
+}
+.group-title:first-of-type { margin-top: 1.5rem; }
+
+.project-stack { display: grid; gap: 28px; }
+.project-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 28px; }
+.project-grid .project-card { grid-template-columns: 1fr; gap: 0; align-content: start; }
+.project-grid .project-media img { height: 220px; }
+.project-grid .project-body { padding: 22px 24px 26px; }
+.project-grid .project-body h3 { font-size: 1.25rem; }
+.project-stack .project-media img { min-height: 260px; }
+@media (max-width: 860px) {
+  .project-grid { grid-template-columns: 1fr; }
+  .project-grid .project-media img { height: 200px; }
+}

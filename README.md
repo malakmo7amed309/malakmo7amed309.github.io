@@ -16,7 +16,7 @@ little JavaScript, no build step and no dependencies to install.
 - Hero with quick links (GitHub, LinkedIn, email)
 - About me
 - Skills
-- Projects (LinkPosts, more coming)
+- Projects: 31 apps and sites in three groups (flagship, realtime/data/tools, design and landing pages), each with a screenshot, live demo and source link
 - Contact
 
 ## Run locally
