@@ -29,4 +29,4 @@ Deployed with GitHub Pages from the `main` branch.
 
 ## Author
 
-Malak Mohamed - Junior Frontend Developer - [GitHub](https://github.com/malakmo7amed309)
+Malak Mohamed - Frontend Developer - [GitHub](https://github.com/malakmo7amed309)
